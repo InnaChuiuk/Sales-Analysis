@@ -23,4 +23,4 @@
 1. Оригінальний файл `\original_csvfile_sales`.
 2. Файл Excel зі звітом `\sales_analysis`.
 
-![Картинка Звіту](\dashboard_sales.png)
+![Картинка Звіту](dashboard_sales.png)
