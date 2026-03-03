@@ -23,4 +23,4 @@
 1. Оригінальний файл `\Original File`.
 2. Файли Excel зі звітом на 2 мовах `\Excel`.
 
-![Картинка Звіту](dashboard_sales_ua.png)
+![Картинка Звіту](dashboard_sales_UA.png)
