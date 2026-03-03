@@ -20,7 +20,7 @@
 У пізній час (22) найбільше кави купували клієнти саме у П'ятницю.
 
 ## Опис файлів
-1. Оригінальний файл `\original_csvfile_sales`.
-2. Файл Excel зі звітом `\sales_analysis`.
+1. Оригінальний файл `\Original File`.
+2. Файли Excel зі звітом на 2 мовах `\Excel`.
 
-![Картинка Звіту](dashboard_sales.png)
+![Картинка Звіту](dashboard_sales_ua.png)
