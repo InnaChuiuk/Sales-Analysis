@@ -29,4 +29,4 @@ The objective of this project was to transform raw transaction data into an inte
 1. Oiginal file in `\Original File` folder.
 2. Excel file with Interactive dashboards in 2 languages are in `\Excel` folder.
 
-![Картинка Звіту](dashboard_sales_en.png)
+![Картинка Звіту](dashboard_sales_EN.png)
